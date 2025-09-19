@@ -20,14 +20,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Commit and push SVG
-        run: |
+      - name: List dist folder
+        run: ls -R dist
+
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           mkdir -p output
-          mv dist/pacman-contribution-graph.svg output/pacman-contribution-graph.svg
-          git add output/pacman-contribution-graph.svg
-          git commit -m "Update pacman-contribution-graph.svg" || echo "No changes"
+          mv dist/pacman-contribution-graph-dark.svg output/pacman-contribution-graph-dark.svg
+          git add output/pacman-contribution-graph-dark.svg
+          git commit -m "Add dark mode pacman SVG"
           git push origin main
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
