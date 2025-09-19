@@ -17,13 +17,13 @@
 
 <!-- Horizontal icons using a table -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/CSS.svg" height="40" alt="CSS logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/HTML5.svg" height="40" alt="HTML5 logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Jupyter.svg" height="40" alt="Jupyter logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/MySQL.svg" height="40" alt="MySQL logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/NumPy.svg" height="40" alt="NumPy logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/pandas.svg" height="40" alt="Pandas logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Python.svg" height="40" alt="Python logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/CSS.png" width="40" height="40" alt="CSS logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/HTML5.png" width="40" height="40" alt="HTML5 logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Jupyter.png" width="40" height="40" alt="Jupyter logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/MySQL.png" width="40" height="40" alt="MySQL logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/NumPy.png" width="40" height="40" alt="NumPy logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/pandas.png" width="40" height="40" alt="Pandas logo" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Python.png" width="40" height="40" alt="Python logo" />
 </p>
 
 ###
