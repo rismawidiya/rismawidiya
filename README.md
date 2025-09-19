@@ -15,15 +15,18 @@
 
 <br clear="both">
 
-<div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap; margin-bottom: 1em;">
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="CSS logo" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5 logo" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="Jupyter logo" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL logo" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="NumPy logo" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="Pandas logo" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python logo" />
-</div>
+<!-- Horizontal icons using a table -->
+<table align="center">
+<tr>
+  <td><img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="CSS logo" /></td>
+  <td><img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5 logo" /></td>
+  <td><img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="Jupyter logo" /></td>
+  <td><img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL logo" /></td>
+  <td><img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="NumPy logo" /></td>
+  <td><img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="Pandas logo" /></td>
+  <td><img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python logo" /></td>
+</tr>
+</table>
 
 ###
 
