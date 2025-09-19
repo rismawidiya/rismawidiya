@@ -1,36 +1,51 @@
-name: Generate pacman animation
+name: Generate Pac-Man Animation
 
 on:
   schedule:
     - cron: "0 0 * * *"  # every day at midnight UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repo with full history
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false  # we’ll use token explicitly
+          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Generate pacman SVG
+      # Generate Pac-Man SVGs
+      - name: Generate Pac-Man SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Commit and push SVG to output branch
+      # List the dist folder (optional, for first run/debugging)
+      - name: List dist folder
+        run: ls -R dist
+
+      # Commit and push SVGs to output branch
+      - name: Commit and push to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+          # create output folder
           mkdir -p output
+
+          # move generated SVGs
           mv dist/pacman-contribution-graph.svg output/pacman-contribution-graph.svg
           mv dist/pacman-contribution-graph-dark.svg output/pacman-contribution-graph-dark.svg
+
+          # stage files
           git add output/pacman-contribution-graph.svg output/pacman-contribution-graph-dark.svg
+
+          # commit changes if any
           git commit -m "Update Pac-Man SVG" || echo "No changes to commit"
-          git push --set-upstream https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/Risma.git output
+
+          # push to output branch
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/Risma.git output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
