@@ -18,7 +18,9 @@ Now, I'm back to my first love: exploring, cleaning, analysing data, and buildin
 
 <br clear="both">
 
-<p style="text-align:center;">Tools I'm familiar with:</p>
+<div align="center">
+  <p>Tools I'm familiar with:</p>
+</div>
 <!-- Horizontal icons using a table -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/CSS.svg" width="40" height="40" alt="CSS logo" />
@@ -41,22 +43,22 @@ Now, I'm back to my first love: exploring, cleaning, analysing data, and buildin
 <div align="center">
 
   <!-- Project 1 -->
-  <a href="https://github.com/rismawidiya/nyc-taxi-analysis" target="_blank">
-    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/nyc-taxi-thumbnail.png" width="150" alt="NYC Taxi Project" />
-    <p>Drive Smart, Maximise Profits: NYC Taxi Insights</p>
+  <a href="https://github.com/rismawidiya/Module-02-Capstone-Risma" target="_blank">
+    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project1.jpg" width="150" alt="NYC Taxi Project" />
+    <p>Drive Smart, Maximise Profits: Data-Driven Insights to Boost NYC Taxi Company Revenue</p>
   </a>
   <p>Analysed NYC Taxi Trip data to uncover profit-maximising strategies for companies and drivers, with insights on zones, peak times, and customer demand.</p>
 
   <!-- Project 2 -->
-  <a href="https://github.com/rismawidiya/daegu-apartment-prices" target="_blank">
-    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/daegu-apartment-thumbnail.png" width="150" alt="Daegu Apartment Project" />
-    <p>Daegu Deals: Predicting Apartment Prices</p>
+  <a href="https://github.com/rismawidiya/Module-03-Capstone-Risma" target="_blank">
+    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project2.jpg" width="150" alt="Daegu Apartment Project" />
+    <p>Daegu Deals: What's the Real Price of Home Apartment?</p>
   </a>
   <p>Built an XGBoost model with explainable AI (SHAP) to predict apartment prices in Daegu and provide interpretable insights.</p>
 
   <!-- Project 3 -->
-  <a href="https://github.com/rismawidiya/olist-delivery-analysis" target="_blank">
-    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/olist-thumbnail.png" width="150" alt="Olist Project" />
+  <a href="[https://github.com/rismawidiya/olist-delivery-analysis](https://github.com/rismawidiya/Final-Project-Olist)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project3.png" width="150" alt="Olist Project" />
     <p>Breaking Bottlenecks: Delivery Gameplan for Olist</p>
   </a>
   <p>Analysed Olist e-commerce data to identify delivery delays, satisfaction drivers, and logistics bottlenecks. Built a predictive model to improve performance.</p>
@@ -76,7 +78,9 @@ Now, I'm back to my first love: exploring, cleaning, analysing data, and buildin
 
 <br clear="both">
 
-<p style="text-align:center;">Let's connect!</p>
+<div align="center">
+  <p>Let's connect!</p>
+</div>
 
 <div align="center">
   <a href="mailto:rismawidiya01@gmail.com" target="_blank">
