@@ -23,19 +23,13 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
   <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
 </div>
 
@@ -57,6 +51,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rismawidiya/rismawidiya/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
+<div align="center">
+  <!-- Replace with correct path to your snake.svg -->
+  <img src="https://raw.githubusercontent.com/rismawidiya/rismawidiya/main/output/snake.svg" alt="Snake animation" />
+</div>
