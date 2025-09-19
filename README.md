@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi, I'm Risma!</h2>
+<h2 align="left">Hi, I'm [Risma](https://rismawidiya.github.io)!</h2>
 
 <p>
 I'm an aspiring data scientist who loves turning messy data into clear stories and actionable solutions.
