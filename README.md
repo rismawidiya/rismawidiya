@@ -44,21 +44,21 @@ Now, I'm back to my first love: exploring, cleaning, analysing data, and buildin
 
   <!-- Project 1 -->
   <a href="https://github.com/rismawidiya/Module-02-Capstone-Risma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project1.jpg" width="220" height="140" alt="NYC Taxi Project" />
+    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project1.jpg" width="500" height="420" alt="NYC Taxi Project" />
     <p>Drive Smart, Maximise Profits: Data-Driven Insights to Boost NYC Taxi Company Revenue</p>
   </a>
   <p>Analysed NYC Taxi Trip data to uncover profit-maximising strategies for companies and drivers, with insights on zones, peak times, and customer demand.</p>
 
   <!-- Project 2 -->
   <a href="https://github.com/rismawidiya/Module-03-Capstone-Risma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project2.jpg" width="220" height="140" alt="Daegu Apartment Project" />
+    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project2.jpg" width="500" height="420" alt="Daegu Apartment Project" />
     <p>Daegu Deals: What's the Real Price of Home Apartment?</p>
   </a>
   <p>Built an XGBoost model with explainable AI (SHAP) to predict apartment prices in Daegu and provide interpretable insights.</p>
 
   <!-- Project 3 -->
-  <a href="[https://github.com/rismawidiya/olist-delivery-analysis](https://github.com/rismawidiya/Final-Project-Olist)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project3.png" width="220" height="140" alt="Olist Project" />
+  <a href="https://github.com/rismawidiya/Final-Project-Olist" target="_blank">
+    <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/project3.png" width="500" height="420" alt="Olist Project" />
     <p>Breaking Bottlenecks: Delivery Gameplan for Olist</p>
   </a>
   <p>Analysed Olist e-commerce data to identify delivery delays, satisfaction drivers, and logistics bottlenecks. Built a predictive model to improve performance.</p>
