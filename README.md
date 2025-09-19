@@ -16,17 +16,17 @@
 <br clear="both">
 
 <!-- Horizontal icons using a table -->
-<table align="center">
-<tr>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/CSS.svg" height="30" alt="CSS logo" /></td>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/HTML5.svg" height="30" alt="HTML5 logo" /></td>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/Jupyter.svg" height="30" alt="Jupyter logo" /></td>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/MySQL.svg" height="30" alt="MySQL logo" /></td>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/NumPy.svg" height="30" alt="NumPy logo" /></td>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/pandas.svg" height="30" alt="Pandas logo" /></td>
-  <td><img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/Python.svg" height="30" alt="Python logo" /></td>
-</tr>
-</table>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/CSS.svg" height="40" alt="CSS logo" style="margin:0 10px;" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/HTML5.svg" height="40" alt="HTML5 logo" style="margin:0 10px;" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Jupyter.svg" height="40" alt="Jupyter logo" style="margin:0 10px;" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/MySQL.svg" height="40" alt="MySQL logo" style="margin:0 10px;" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/NumPy.svg" height="40" alt="NumPy logo" style="margin:0 10px;" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/pandas.svg" height="40" alt="Pandas logo" style="margin:0 10px;" />
+  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Python.svg" height="40" alt="Python logo" style="margin:0 10px;" />
+
+</div>
 
 ###
 
