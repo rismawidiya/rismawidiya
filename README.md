@@ -16,7 +16,7 @@
 <br clear="both">
 
 <!-- Horizontal icons using a table -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/CSS.svg" height="40" alt="CSS logo" />
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/HTML5.svg" height="40" alt="HTML5 logo" />
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Jupyter.svg" height="40" alt="Jupyter logo" />
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/NumPy.svg" height="40" alt="NumPy logo" />
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/pandas.svg" height="40" alt="Pandas logo" />
   <img src="https://raw.githubusercontent.com/rismawidiya/Risma/main/images/Python.svg" height="40" alt="Python logo" />
-</div>
+</p>
 
 ###
 
