@@ -23,13 +23,15 @@ jobs:
       - name: List dist folder
         run: ls -R dist
 
+      - name: Commit and push SVG
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           mkdir -p output
+          mv dist/pacman-contribution-graph.svg output/pacman-contribution-graph.svg
           mv dist/pacman-contribution-graph-dark.svg output/pacman-contribution-graph-dark.svg
-          git add output/pacman-contribution-graph-dark.svg
-          git commit -m "Add dark mode pacman SVG"
+          git add output/pacman-contribution-graph.svg output/pacman-contribution-graph-dark.svg
+          git commit -m "Update Pac-Man SVG" || echo "No changes to commit"
           git push origin main
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

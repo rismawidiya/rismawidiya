@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap; margin-bottom: 1em;">
+<div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap; margin-bottom: 1em;">
   <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="CSS logo" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5 logo" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="Jupyter logo" />
