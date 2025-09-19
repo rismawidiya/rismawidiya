@@ -22,9 +22,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: List dist folder
-        run: ls -R dist
-
       - name: Commit and push SVG to output branch
         run: |
           git config --local user.email "action@github.com"
@@ -34,6 +31,6 @@ jobs:
           mv dist/pacman-contribution-graph-dark.svg output/pacman-contribution-graph-dark.svg
           git add output/pacman-contribution-graph.svg output/pacman-contribution-graph-dark.svg
           git commit -m "Update Pac-Man SVG" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/Risma.git output
+          git push --set-upstream https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/Risma.git output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
