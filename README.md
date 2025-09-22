@@ -55,7 +55,7 @@ Life took me in a few different directions after that. I worked as a freelance w
     <p>Drive Smart, Maximise Profits: Data-Driven Insights to Boost NYC Taxi Company Revenue</p>
   </a>
   <p>I analysed NYC Taxi Trip Data to identify key revenue drivers and strategies for boosting taxi company profits. After cleaning and validating the dataset, I performed exploratory data analysis in Python and built interactive Tableau dashboards to examine patterns by pickup and drop-off zones, time of day, trip length, passenger count, fare type, and trip type. </p>
-  <p>The findings highlighted high-demand zones such as East Harlem and Manhattanville,profitable time windows like weekday evenings, and revenue concentration in short, single passenger street-hail trips. Based on these insights, I proposed a driver allocation plan to optimise fleet distribution across zones and time slots, demonstrating how data-driven strategies can improve efficiency, balance resources, and increase profitability.</p>
+  <p>The findings highlighted high-demand zones such as East Harlem and Manhattanville, profitable time windows like weekday evenings, and revenue concentration in short, single passenger street-hail trips. Based on these insights, I proposed a driver allocation plan to optimise fleet distribution across zones and time slots, demonstrating how data-driven strategies can improve efficiency, balance resources, and increase profitability.</p>
 
   <!-- Project 2 -->
   <a href="https://github.com/rismawidiya/Module-03-Capstone-Risma" target="_blank">
