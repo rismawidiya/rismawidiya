@@ -9,12 +9,15 @@ I'm an aspiring data scientist who loves turning messy data into clear stories a
 </p>
   
 <p>
-I started in Geophysics, discovered my passion for data during an internship, and explored other paths like freelance writing and customer service along the way. All those experiences sharpened my storytelling, empathy, and perspective.
+I didn't start out as a data scientist right away. My background is actually in Geophysics. During my internship back in the university, I got my first real taste of working with data, and that's where my love for it began.
 </p>
 
 <p>
-Now, I'm back to my first love: exploring, cleaning, analysing data, and building models that make insights meaningful for others.
-</p>
+Life took me in a few different directions after that. I worked as a freelance writer and later as a customer service specialist. I enjoyed those chapters, too. Writing sharpened my storytelling and working with customers gave me perspective and empathy for different kinds of people.</p>
+
+<p>But deep down, I knew my first love had always been data. So here I am, back full circle; exploring, cleaning, analysing, and building models, while still weaving in my storytelling skills to make insights clear and meaningful for others.</p>
+
+<p>And don't be put off by my eclectic work experience. Apparently, I was put on this earth to clear all the side quests that led me here before unlocking my true main storyline: data science.</p>
 
 ###
 
