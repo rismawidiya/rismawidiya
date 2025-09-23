@@ -27,17 +27,23 @@ Life took me in a few different directions after that. I worked as a freelance w
   <p>Tools I'm familiar with:</p>
 </div>
 <!-- Horizontal icons using a table -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/CSS.svg" width="40" height="40" alt="CSS logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/HTML5.svg" width="40" height="40" alt="HTML5 logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/Jupyter.svg" width="40" height="40" alt="Jupyter logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/MySQL.svg" width="40" height="40" alt="MySQL logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/NumPy.svg" width="40" height="40" alt="NumPy logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/pandas.svg" width="40" height="40" alt="Pandas logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/Python.svg" width="40" height="40" alt="Python logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/streamlit.png" width="40" height="40" alt="Python logo" />
-  <img src="https://raw.githubusercontent.com/rismawidiya/Risma/refs/heads/main/images/tableau.svg" width="40" height="40" alt="Python logo" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="60" alt="pytorch logo"  />
+</div>
 
 ###
 
@@ -81,8 +87,10 @@ Life took me in a few different directions after that. I worked as a freelance w
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rismawidiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Risma's%20Languages" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rismawidiya&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Risma's%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rismawidiya&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rismawidiya&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rismawidiya&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rismawidiya&theme=kimbie_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
