@@ -5,7 +5,7 @@
 </h2>
 
 <p>
-I'm an aspiring data scientist who loves turning messy data into clear stories and actionable solutions.
+I'm an aspiring data scientist who loves turning messy data into clear stories and smart solutions.
 </p>
   
 <p>
