@@ -9,15 +9,20 @@ I'm an aspiring data scientist who loves turning messy data into clear stories a
 </p>
   
 <p>
-I didn't start out as a data scientist right away. My background is actually in Geophysics. During my internship back in the university, I got my first real taste of working with data, and that's where my love for it began.
+  My journey began in Geophysics, where I first discovered the power of working with data during internships at the Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG).
 </p>
 
 <p>
-Life took me in a few different directions after that. I worked as a freelance writer and later as a customer service specialist. I enjoyed those chapters, too. Writing sharpened my storytelling and working with customers gave me perspective and empathy for different kinds of people.</p>
+  I worked with large geospatial and seismic datasets; processing, analysing, and visualising information to better understand natural hazards. From mapping landslide vulnerability zones with ArcGIS to interpreting earthquake wave patterns, these experiences sharpened my analytical skills and sparked my passion for data-driven problem solving.
+</p>
 
-<p>But deep down, I knew my first love had always been data. So here I am, back full circle; exploring, cleaning, analysing, and building models, while still weaving in my storytelling skills to make insights clear and meaningful for others.</p>
+<p>
+  Since then, I’ve built on that foundation with modern tools like Python, SQL, Tableau, and machine learning. Whether it’s exploring, cleaning, or modelling datasets, I enjoy combining technical skills with clear communication to create insights that drive meaningful impact.
+</p>
 
-<p>And don't be put off by my eclectic work experience. Apparently, I was put on this earth to clear all the side quests that led me here before unlocking my true main storyline: data science.</p>
+<p>
+  Looking back, every step of my journey has been leading me towards what I enjoy most: uncovering patterns, solving problems, and building smart solutions with data science.
+</p>
 
 ###
 
