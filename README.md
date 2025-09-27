@@ -73,7 +73,7 @@ I'm an aspiring data scientist who loves turning messy data into clear stories a
     <p>Daegu Deals: What's the Real Price of Home Apartment?</p>
   </a>
   <p>I built machine learning models to predict apartment prices in Daegu, South Korea. After cleaning and preprocessing the dataset, I benchmarked multiple algorithms, including Ridge, SVR, Random Forest, Gradient Boosting, CatBoost, HistGradientBoosting, and XGBoost, using cross-validated MAE, RMSE, R², and MAPE.</p>
-  <p>XGBoost achieved the best performance (MAE ₩38,060, RMSE ₩47,530, R² = 0.787, MAPE 18.78%), reducing error by over 55% compared to baseline. To ensure interpretability, I applied SHAP, which revealed size, building age, and hallway type as key price drivers, with subway access and parking also influencing results.</p>
+  <p>XGBoost achieved the best performance (MAE ₩38,060, RMSE ₩47,530, R² = 0.787, MAPE 18.78%), reducing error by approximately 55% compared to baseline. R² also improved from -0.02 to 0.79, showing the model explains nearly 80% of variance. To ensure interpretability, I applied SHAP, which revealed size, building age, and hallway type as key price drivers, with subway access and parking also influencing results.</p>
 
   <!-- Project 3 -->
   <a href="https://github.com/rismawidiya/Final-Project-Olist" target="_blank">
