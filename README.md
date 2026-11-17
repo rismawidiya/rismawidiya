@@ -5,23 +5,22 @@
 </h2>
 
 <p>
-I'm an aspiring data scientist who loves turning messy data into clear stories and smart solutions.
+I'm a data scientist with a background in Geophysics, and I enjoy finding patterns in messy data and figuring out what they actually mean.
 </p>
   
 <p>
-  My journey began in Geophysics, where I first discovered the power of working with data during internships at the Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG).
+  My interest in working with data started during my internships at the Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG). I worked with geospatial and seismic data, from mapping landslide vulnerability using ArcGIS to analysing earthquake wave patterns. It was my first experience seeing how data could be used to understand real-world problems.
 </p>
 
 <p>
-  I worked with large geospatial and seismic datasets; processing, analysing, and visualising information to better understand natural hazards. From mapping landslide vulnerability zones with ArcGIS to interpreting earthquake wave patterns, these experiences sharpened my analytical skills and sparked my passion for data-driven problem solving.
+  Since then, I've expanded my skills through Data Science and Machine Learning, working with Python, SQL, Tableau, and machine learning models. I've worked on projects involving data cleaning, exploratory analysis, visualisation, predictive modelling, and business analytics.
 </p>
 
 <p>
-  Since then, I’ve built on that foundation with modern tools like Python, SQL, Tableau, and machine learning. Whether it’s exploring, cleaning, or modelling datasets, I enjoy combining technical skills with clear communication to create insights that drive meaningful impact.
-</p>
+  What I enjoy most is taking a messy dataset and making sense of it, finding interesting patterns, understanding why they exist, and turning them into useful insights.
 
 <p>
-  Looking back, every step of my journey has been leading me towards what I enjoy most: uncovering patterns, solving problems, and building smart solutions with data science.
+  I'm currently building my skills through hands-on projects and looking for opportunities to apply what I've learned to real-world data problems.
 </p>
 
 ###
