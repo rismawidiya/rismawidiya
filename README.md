@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h2 align="left">
-  <a href="https://rismawidiya.github.io" style="text-decoration:none; color:inherit;">Hi, I'm Risma!</a>
+  <a href="https://rismawidiya.github.io" style="text-decoration:none; color:inherit;">Hi, I'm Widi!</a>
 </h2>
 
 <p>
